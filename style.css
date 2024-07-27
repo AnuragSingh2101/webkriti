@@ -150,15 +150,18 @@ footer {
 
 
 .icon {
+<<<<<<< HEAD
     width: 80px;
     height: 80px;
     background-color: #3498db;
+=======
+    width: 50px;
+    height: 50px;
+>>>>>>> b034a0cf26917115241330df2c15d9c4d6795992
     border-radius: 50%;
     display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    font-weight: bold;
+    background-color: #f8f7f6;
+    
 }
 
 
@@ -181,6 +184,7 @@ footer {
     /* box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);  */
     text-transform: uppercase;      
 }
+
 
 
 /* .smallheading {
