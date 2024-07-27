@@ -150,18 +150,13 @@ footer {
 
 
 .icon {
-<<<<<<< HEAD
-    width: 80px;
-    height: 80px;
-    background-color: #3498db;
-=======
+
     width: 50px;
     height: 50px;
->>>>>>> b034a0cf26917115241330df2c15d9c4d6795992
     border-radius: 50%;
     display: flex;
     background-color: #f8f7f6;
-    
+ 
 }
 
 
